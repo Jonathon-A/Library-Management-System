@@ -36,3 +36,13 @@ Liam has checked out all the "Star Wars" books and has not returned any of them 
 Harv has only checked out harry potter books
 John has read a variety of books very recently
 Megg has only read from the "fifty shades" series
+
+Some images of the system:
+
+![alt text](https://github.com/Jonathon-A/Library-Management-System/blob/main/Images/Menu.png)
+
+![alt text](https://github.com/Jonathon-A/Library-Management-System/blob/main/Images/Search.png)
+
+![alt text](https://github.com/Jonathon-A/Library-Management-System/blob/main/Images/Recommendation.png)
+
+![alt text](https://github.com/Jonathon-A/Library-Management-System/blob/main/Images/Graph.png)
